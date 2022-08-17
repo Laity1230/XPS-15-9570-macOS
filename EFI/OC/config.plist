@@ -560,7 +560,7 @@
 				<key>Comment</key>
 				<string>V2.6.2 | 2.6.2</string>
 				<key>Enabled</key>
-				<false/>
+				<true/>
 				<key>ExecutablePath</key>
 				<string></string>
 				<key>MaxKernel</key>
@@ -578,7 +578,7 @@
 				<key>Comment</key>
 				<string>V2.6.2 | 2.6.2</string>
 				<key>Enabled</key>
-				<false/>
+				<true/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/BrcmFirmwareData</string>
 				<key>MaxKernel</key>
@@ -596,7 +596,7 @@
 				<key>Comment</key>
 				<string>V2.6.2 | 2.6.2</string>
 				<key>Enabled</key>
-				<false/>
+				<true/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/BrcmPatchRAM3</string>
 				<key>MaxKernel</key>
@@ -928,7 +928,7 @@
 			<key>PollAppleHotKeys</key>
 			<true/>
 			<key>ShowPicker</key>
-			<false/>
+			<true/>
 			<key>TakeoffDelay</key>
 			<integer>0</integer>
 			<key>Timeout</key>
@@ -1028,7 +1028,7 @@
 			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
 			<dict>
 				<key>boot-args</key>
-				<string>darkwake=1 igfxfw=2</string>
+				<string>darkwake=1 igfxfw=2 -v</string>
 				<key>csr-active-config</key>
 				<data>ZwAAAA==</data>
 			</dict>
@@ -1064,7 +1064,7 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>C028072704NJP4F1F</string>
+			<string>C02824130GUJP4FJA</string>
 			<key>ProcessorType</key>
 			<integer>1793</integer>
 			<key>ROM</key>
@@ -1076,9 +1076,9 @@
 			<key>SystemProductName</key>
 			<string>MacBookPro15,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02W8HZQKGYG</string>
+			<string>C02WVNZ5KGYG</string>
 			<key>SystemUUID</key>
-			<string>39DFDC58-8D01-49E4-AB56-0B1A0A0920DD</string>
+			<string>E0835E91-5D1A-448D-8B69-861A70DBC631</string>
 		</dict>
 		<key>SMBIOS</key>
 		<dict>
@@ -1279,7 +1279,7 @@
 			<key>KeySwap</key>
 			<false/>
 			<key>PointerSupport</key>
-			<false/>
+			<true/>
 			<key>PointerSupportMode</key>
 			<string></string>
 			<key>TimerResolution</key>
@@ -1310,7 +1310,7 @@
 			<key>Resolution</key>
 			<string>Max</string>
 			<key>SanitiseClearScreen</key>
-			<false/>
+			<true/>
 			<key>TextRenderer</key>
 			<string>BuiltinGraphics</string>
 			<key>UgaPassThrough</key>
