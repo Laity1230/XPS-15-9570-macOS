@@ -924,7 +924,7 @@
 			<key>PickerMode</key>
 			<string>External</string>
 			<key>PickerVariant</key>
-			<string>Acidanthera\GoldenGate</string>
+			<string>Acidanthera\White</string>
 			<key>PollAppleHotKeys</key>
 			<true/>
 			<key>ShowPicker</key>
@@ -932,7 +932,7 @@
 			<key>TakeoffDelay</key>
 			<integer>0</integer>
 			<key>Timeout</key>
-			<integer>0</integer>
+			<integer>5</integer>
 		</dict>
 		<key>Debug</key>
 		<dict>
@@ -1064,7 +1064,7 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02824130GUJP4FJA</string>
+			<string>C028064044NJP4F8C</string>
 			<key>ProcessorType</key>
 			<integer>1793</integer>
 			<key>ROM</key>
@@ -1076,9 +1076,9 @@
 			<key>SystemProductName</key>
 			<string>MacBookPro15,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02WVNZ5KGYG</string>
+			<string>C02W70JYKGYG</string>
 			<key>SystemUUID</key>
-			<string>E0835E91-5D1A-448D-8B69-861A70DBC631</string>
+			<string>3B5BB390-F168-49B4-9E1B-EA4E7158C967</string>
 		</dict>
 		<key>SMBIOS</key>
 		<dict>
@@ -1097,7 +1097,7 @@
 			<key>BoardProduct</key>
 			<string>Mac-937A206F2EE63C01</string>
 			<key>BoardSerialNumber</key>
-			<string>C028072704NJP4F1F</string>
+			<string>C028064044NJP4F8C</string>
 			<key>BoardType</key>
 			<integer>10</integer>
 			<key>BoardVersion</key>
@@ -1107,7 +1107,7 @@
 			<key>ChassisManufacturer</key>
 			<string></string>
 			<key>ChassisSerialNumber</key>
-			<string>C02W8HZQKGYG</string>
+			<string>C02W70JYKGYG</string>
 			<key>ChassisType</key>
 			<integer>9</integer>
 			<key>ChassisVersion</key>
@@ -1131,9 +1131,9 @@
 			<key>SystemSKUNumber</key>
 			<string>System SKU#</string>
 			<key>SystemSerialNumber</key>
-			<string>C02W8HZQKGYG</string>
+			<string>C02W70JYKGYG</string>
 			<key>SystemUUID</key>
-			<string>39DFDC58-8D01-49E4-AB56-0B1A0A0920DD</string>
+			<string>3B5BB390-F168-49B4-9E1B-EA4E7158C967</string>
 			<key>SystemVersion</key>
 			<string>1.0</string>
 		</dict>
